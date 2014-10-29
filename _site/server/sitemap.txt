@@ -1,0 +1,10 @@
+
+/page/feed.xml
+/page/timing.html
+/page/about.html
+/page/category.html
+/page/read.html
+/404.html
+/index.html
+/sitemap.txt
+
