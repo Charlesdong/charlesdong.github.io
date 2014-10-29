@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RSS - dong</title>
-    <description>dong - dong</description>
+    <title>RSS - New Praise</title>
+    <description>New Praise - 耶和华的军队</description>
     <link></link>
     <atom:link href="/page/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>2014-10-30 00:44:39 +0800</pubDate>
-    <lastBuildDate>2014-10-30 00:44:39 +0800</lastBuildDate>
-    <generator></generator>
+    <pubDate>2014-10-30 01:36:45 +0800</pubDate>
+    <lastBuildDate>2014-10-30 01:36:45 +0800</lastBuildDate>
+    <generator>charlesdong</generator>
+    
+      <item>
+        <title>Post Name</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;hello world&lt;/h2&gt;
+</description>
+        <pubDate>2014-10-30 00:00:00 +0800</pubDate>
+        <link>blog/2014/10/30/Post-Name.html</link>
+        <guid isPermaLink="true">blog/2014/10/30/Post-Name.html</guid>
+        
+      </item>
     
   </channel>
 </rss>

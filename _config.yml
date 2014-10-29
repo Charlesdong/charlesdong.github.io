@@ -5,16 +5,16 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name: dong                                                # 博客名称
-    description: dong                                        # 博客描述
-    title:   dong                                            # 网页标题
+    name: New Praise                                               # 博客名称
+    description: 耶和华的军队                                        # 博客描述
+    title: 新的赞美                                            # 网页标题
     url:                                                 # 博客地址
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name:                                                # 作者名称
-    email:                                               # 邮箱地址
+    name: charlesdong                                               # 作者名称
+    email: charlesdong1989@gmail.com                                              # 邮箱地址
     weibo:                                               # 微博地址
     github:                                              # GitHub地址
     logo:                                                # logo地址
