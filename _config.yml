@@ -6,7 +6,7 @@ paginate_path: page/:num
 
 blog:
     name: New Praise                                               # 博客名称
-    description: 耶和华的军队                                        # 博客描述
+    description: 耶和华的军队(第四军)                                        # 博客描述
     title: 新的赞美                                            # 网页标题
     url:                                                 # 博客地址
     duoshuo:                                             # 多说ID
