@@ -8,6 +8,7 @@
 /index.html
 /sitemap.txt
 
+blog/2014/11/26/share.html
 blog/2014/11/13/%E4%BB%A5-3015.html
 blog/2014/11/12/%E6%9F%A5%E7%BB%8F%E5%88%86%E4%BA%AB.html
 blog/2014/11/01/%E6%9F%A5%E7%BB%8F%E5%88%86%E4%BA%AB.html
