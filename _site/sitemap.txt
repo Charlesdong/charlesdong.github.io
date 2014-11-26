@@ -1,4 +1,5 @@
 
+/page2/index.html
 /page/feed.xml
 /page/timing.html
 /page/about.html
@@ -8,6 +9,7 @@
 /index.html
 /sitemap.txt
 
+blog/2014/11/27/learn.html
 blog/2014/11/26/share.html
 blog/2014/11/26/50.html
 blog/2014/11/13/%E4%BB%A5-3015.html
