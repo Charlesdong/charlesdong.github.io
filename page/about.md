@@ -3,4 +3,4 @@ layout: blog
 title: 关于
 ---
 
-关于新的赞美。
+[海淀堂http://www.hdchurch.org/](http://www.hdchurch.org/)
