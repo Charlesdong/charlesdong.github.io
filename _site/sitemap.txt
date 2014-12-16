@@ -9,6 +9,8 @@
 /page/about.html
 /404.html
 
+/blog/2014/12/17/Exodus-04.html
+/blog/2014/12/16/Exodus-03.html
 /blog/2014/12/11/to_remember.html
 /blog/2014/12/10/Exodus-02.html
 /blog/2014/12/10/Exodus-01.html
